@@ -1,4 +1,3 @@
-Proxy,Port,Country,Organization
 172.232.239.151,587,ID,Akamai Connected Cloud
 146.235.18.248,45137,SG,Oracle Cloud
 213.35.108.135,12596,SG,Oracle Cloud

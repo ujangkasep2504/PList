@@ -62,6 +62,8 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add FilteredProxyList.txt
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update filtered proxy list"
+          # Add both the filtered file and the script
+          git add FilteredProxyList.txt filter-proxies.js
+          # Check if there are changes to commit
+          git diff --staged --quiet || git commit -m "Update filtered proxy list"
           git push

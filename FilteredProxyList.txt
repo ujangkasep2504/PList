@@ -10,6 +10,7 @@
 172.232.239.147,587,ID,Akamai Connected Cloud 
 172.232.239.151,587,ID,Akamai Connected Cloud 
 172.232.239.249,587,ID,Akamai Connected Cloud 
+
 178.62.17.85,443,GB,Digital Ocean
 5.161.217.101,8443,US,Hetzner Online
 129.150.58.86,57621,SG,Oracle Cloud

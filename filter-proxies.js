@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 // Read the original file
-const data = fs.readFileSync('ProxyList.txt', 'utf8');
+const data = fs.readFileSync('rawProxyList.txt', 'utf8');
 
 // Split the file into lines
 const lines = data.trim().split('\n');
@@ -20,7 +20,7 @@ for (const line of lines) {
 const uniqueLines = [...uniqueEntries].join('\n');
 
 // Write to a new file
-fs.writeFileSync('FilteredProxyList.txt', uniqueLines);
+fs.writeFileSync('ProxyList.txt', uniqueLines);
 
 console.log(`Filtered file has ${uniqueEntries.size} entries.`);
 console.log('Duplicates removed:', lines.length - uniqueEntries.size);

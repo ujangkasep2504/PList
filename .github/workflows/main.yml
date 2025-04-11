@@ -9,7 +9,7 @@ on:
   # Run when ProxyList.txt is updated
   push:
     paths:
-      - 'ProxyList.txt'
+      - 'rawProxyList.txt'
 
 jobs:
   filter-proxies:
@@ -30,7 +30,7 @@ jobs:
           const fs = require('fs');
           
           // Read the original file
-          const data = fs.readFileSync('ProxyList.txt', 'utf8');
+          const data = fs.readFileSync('rawProxyList.txt', 'utf8');
           
           // Split the file into lines
           const lines = data.trim().split('\n');
@@ -49,7 +49,7 @@ jobs:
           const uniqueLines = [...uniqueEntries].join('\n');
           
           // Write to a new file
-          fs.writeFileSync('FilteredProxyList.txt', uniqueLines);
+          fs.writeFileSync('ProxyList.txt', uniqueLines);
           
           console.log(`Filtered file has ${uniqueEntries.size} entries.`);
           console.log('Duplicates removed:', lines.length - uniqueEntries.size);
@@ -63,7 +63,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           # Add both the filtered file and the script
-          git add FilteredProxyList.txt filter-proxies.js
+          git add ProxyList.txt filter-proxies.js
           # Check if there are changes to commit
           git diff --staged --quiet || git commit -m "Update filtered proxy list"
           git push

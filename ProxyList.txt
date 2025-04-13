@@ -2,16 +2,14 @@
 35.219.15.90,443,ID,Google LLC
 203.194.112.119,2053,ID,Rumahweb
 203.194.112.119,8443,ID,Rumahweb
-8.215.196.18,587,ID,Alibaba 
-36.95.152.58,12137,ID,PT Telkom Indonesia 
-43.218.77.16,443,ID,Amazon 
+8.215.196.18,587,ID,Alibaba
+36.95.152.58,12137,ID,PT Telkom Indonesia
+43.218.77.16,443,ID,Amazon
 43.218.77.16,1443,ID,Amazon
-103.6.207.108,8080,ID,PT Pusat Media Indonesia 
-172.232.239.147,587,ID,Akamai Connected Cloud 
-172.232.239.151,587,ID,Akamai Connected Cloud 
-172.232.239.249,587,ID,Akamai Connected Cloud 
-
+103.6.207.108,8080,ID,PT Pusat Media Indonesia
+172.232.239.147,587,ID,Akamai Connected Cloud
 172.232.239.151,587,ID,Akamai Connected Cloud
+172.232.239.249,587,ID,Akamai Connected Cloud
 146.235.18.248,45137,SG,Oracle Cloud
 213.35.108.135,12596,SG,Oracle Cloud
 129.150.58.86,57621,SG,Oracle Cloud
@@ -2398,7 +2396,6 @@
 181.48.111.13,32726,CO,Telmex Colombia S.A.
 181.48.111.13,28472,CO,Telmex Colombia S.A.
 144.22.252.124,443,BR,Oracle Cloud
-103.6.207.108,8080,ID,PT Pusat Media Indonesia
 163.47.9.27,8443,SG,Digital Ocean
 158.178.243.152,61731,SG,Oracle Cloud
 206.206.76.208,2053,SG,Regxa Cloud
@@ -10868,7 +10865,6 @@
 43.218.77.16,1443,ID,Amazoncom
 207.61.86.114,443,CA,Empire Life
 208.83.238.161,443,US,Vultr
-8.215.196.18,587,ID,Alibaba
 168.138.171.70,23280,SG,Oracle Cloud
 194.146.24.240,443,GB,Kamatera Inc
 175.199.174.127,50000,KR,KT

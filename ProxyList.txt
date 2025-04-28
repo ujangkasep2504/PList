@@ -25,6 +25,11 @@
 38.60.171.111,587,ID,Kaopu Cloud
 43.133.145.156,53136,ID,Tencent cloud computing
 101.50.0.114,8443,ID,PT Beon Multimedia
+38.60.193.247,13300,MY,Kaopu Cloud Hk Limited
+45.195.76.190,29690,MY,Evoxt Enterprise
+123.253.33.182,12306,MY,Gigabit Hosting Sdn Bhd
+154.83.86.52,55555,MY,Octopus Web Solution
+172.93.165.228,443,MY,Gigabit Hosting Sdn Bhd
 3.1.94.232,443,SG,Amazoncom
 54.251.167.101,443,SG,Amazoncom
 47.74.254.191,8900,SG,Alibaba
@@ -3778,11 +3783,9 @@
 23.27.199.249,2053,MY,Evoxt Enterprise
 23.27.199.249,8443,MY,Evoxt Enterprise
 38.60.194.202,33191,MY,Kaopu Cloud Hk Limited
-45.195.76.190,29690,MY,Evoxt Enterprise
 45.195.69.98,30726,MY,Evoxt Enterprise
 103.159.132.61,33999,MY,Gigabit Hosting Sdn Bhd
 154.90.39.188,48071,MY,LightNode_Limited
-38.60.193.247,13300,MY,Kaopu Cloud Hk Limited
 111.90.148.129,2053,MY,Shinjiru Technology Sdn Bhd
 111.90.148.129,8443,MY,Shinjiru Technology Sdn Bhd
 47.245.113.31,57146,SG,Alibaba
@@ -14812,7 +14815,6 @@
 43.229.149.251,8443,TH,Siamdata Communication Co.
 103.115.44.87,49322,CN,rainbow network
 103.115.44.87,49323,CN,rainbow network
-172.93.165.228,443,MY,Gigabit Hosting Sdn Bhd
 38.55.195.234,49850,US,Lucidacloud
 154.55.138.210,20015,US,Zillion-network
 154.55.138.210,20007,US,Zillion-network
@@ -15389,7 +15391,6 @@
 164.92.139.18,443,DE,Digital Ocean
 188.166.108.45,14235,NL,Digital Ocean
 24.199.104.112,8443,US,Digital Ocean
-123.253.33.182,12306,MY,Gigabit Hosting Sdn Bhd
 207.148.107.181,22135,JP,Vultr
 202.182.124.217,56659,JP,Vultr
 132.226.8.189,18104,JP,Oracle Cloud
@@ -20416,7 +20417,6 @@
 220.196.190.122,443,CN,China Unicom
 216.245.223.214,443,US,Spectrum
 209.182.237.252,8080,US,Hivelocity
-154.83.86.52,55555,MY,Octopus Web Solution
 58.122.244.17,35406,KR,SK Broadband
 58.72.194.86,50000,KR,LG Uplus
 209.38.16.180,4002,AU,Digital Ocean

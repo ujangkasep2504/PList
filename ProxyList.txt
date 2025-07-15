@@ -6457,7 +6457,7 @@
 52.19.178.111,2053,IE,Amazon Data Services Ireland Limited
 43.218.77.16,1443,ID,Amazoncom Inc
 43.218.77.16,443,ID,Amazoncom Inc
-103.6.207.108,8080,ID,Pusat Media
+103.6.207.108,8080,ID,PT Pusat Media Indonesia
 192.210.183.104,443,IE,RackNerd LLC
 52.19.138.237,8443,IE,Amazon Data Services Ireland Limited
 85.159.229.121,2053,IE,GLOBAL INTERNET SOLUTIONS LLC

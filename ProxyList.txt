@@ -1,3 +1,699 @@
+156.244.1.250,8443,ID,Kaopu Cloud HK Limited
+149.129.250.8,443,ID,Alibaba (US) Technology Co., Ltd.
+172.232.234.198,443,ID,Akamai Connected Cloud
+103.146.63.149,443,ID,PT Semut Data Indonesia
+149.129.220.69,443,ID,Alibaba (US) Technology Co., Ltd.
+43.218.77.16,1443,ID,Amazon.com, Inc.
+154.205.159.72,2053,ID,Kaopu Cloud HK Limited
+34.101.86.59,443,ID,Google LLC
+172.232.238.56,443,ID,Akamai Connected Cloud
+206.84.101.83,8443,ID,PT MITRA VISIONER PRATAMA
+43.218.77.16,443,ID,Amazon.com, Inc.
+103.197.189.133,443,ID,PT Biznet Gio Nusantara
+103.6.207.108,8080,ID,PT Pusat Media Indonesia
+36.95.152.58,12137,ID,PT Telekomunikasi Indonesia
+172.232.234.117,443,ID,Akamai Connected Cloud
+203.194.112.119,8443,ID,CV. Rumahweb Indonesia
+203.194.112.119,2053,ID,CV. Rumahweb Indonesia
+38.60.193.247,13300,MY,Kaopu Cloud HK Limited
+45.89.107.7,2053,MY,PQ HOSTING PLUS S.R.L.
+163.61.102.13,443,MY,Terabix
+47.250.59.132,443,MY,Alibaba (US) Technology Co., Ltd.
+47.254.235.252,443,MY,Alibaba (US) Technology Co., Ltd.
+47.254.206.121,443,MY,Alibaba (US) Technology Co., Ltd.
+47.250.139.249,443,MY,Alibaba (US) Technology Co., Ltd.
+47.250.139.59,443,MY,Alibaba (US) Technology Co., Ltd.
+47.250.132.147,443,MY,Alibaba (US) Technology Co., Ltd.
+47.254.255.125,443,MY,Alibaba (US) Technology Co., Ltd.
+47.250.37.87,443,MY,Alibaba (US) Technology Co., Ltd.
+20.17.107.137,443,MY,Microsoft Corporation
+20.17.104.31,443,MY,Microsoft Corporation
+58.27.117.24,443,MY,TM TECHNOLOGY SERVICES SDN. BHD.
+23.27.53.140,443,MY,Evoxt Enterprise
+60.52.2.32,443,MY,TM TECHNOLOGY SERVICES SDN. BHD.
+45.89.107.118,443,MY,PQ HOSTING PLUS S.R.L.
+155.254.60.225,443,MY,Evoxt Enterprise
+202.184.113.127,443,MY,TTNET-MY
+31.192.238.71,2053,SG,Chelyabinsk-Signal LLC
+45.88.42.34,2083,SG,Datacamp Limited
+68.183.235.240,443,SG,DigitalOcean, LLC
+45.88.42.34,8443,SG,Datacamp Limited
+146.235.19.79,28983,SG,Oracle Corporation
+139.162.53.195,8443,SG,Akamai Connected Cloud
+146.235.18.248,45137,SG,Oracle Corporation
+62.72.46.14,8443,SG,Contabo Asia Private Limited
+159.223.68.23,443,SG,DigitalOcean, LLC
+140.245.53.45,443,SG,Oracle Corporation
+206.206.76.32,8443,SG,Regxa Company for Information Technology Ltd
+157.245.60.56,443,SG,DigitalOcean, LLC
+172.104.40.56,587,SG,Akamai Connected Cloud
+64.49.14.41,8443,SG,Latitude.sh
+64.49.14.41,2053,SG,Latitude.sh
+167.88.172.224,443,SG,RouterHosting LLC
+68.183.227.236,443,SG,DigitalOcean, LLC
+159.223.53.70,2053,SG,DigitalOcean, LLC
+206.206.77.53,443,SG,Regxa Company for Information Technology Ltd
+46.3.96.64,443,SG,SAKURA LINK LIMITED
+152.42.234.228,2083,SG,DigitalOcean, LLC
+47.237.149.38,8443,SG,Alibaba (US) Technology Co., Ltd.
+43.128.95.110,40029,SG,Tencent Building, Kejizhongyi Avenue
+43.134.164.53,443,SG,Tencent Building, Kejizhongyi Avenue
+43.134.167.135,9950,SG,Tencent Building, Kejizhongyi Avenue
+51.79.158.58,2053,SG,OVH SAS
+43.156.116.194,443,SG,Tencent Building, Kejizhongyi Avenue
+43.156.181.203,443,SG,Tencent Building, Kejizhongyi Avenue
+47.236.119.190,51342,SG,Alibaba (US) Technology Co., Ltd.
+45.207.216.139,443,SG,MoeDove
+128.199.172.224,443,SG,DigitalOcean, LLC
+161.117.81.41,443,SG,Alibaba (US) Technology Co., Ltd.
+128.199.255.155,8443,SG,DigitalOcean, LLC
+146.190.107.103,443,SG,DigitalOcean, LLC
+139.180.159.133,443,SG,The Constant Company, LLC
+8.222.210.34,443,SG,Alibaba (US) Technology Co., Ltd.
+47.236.59.222,443,SG,Alibaba (US) Technology Co., Ltd.
+91.192.81.154,2053,SG,Melbikomas UAB
+38.244.151.165,2053,SG,M247 Europe SRL
+47.236.201.202,443,SG,Alibaba (US) Technology Co., Ltd.
+8.222.181.122,443,SG,Alibaba (US) Technology Co., Ltd.
+47.236.71.6,443,SG,Alibaba (US) Technology Co., Ltd.
+164.52.2.100,443,SG,CDS Global Cloud Co., Ltd
+83.142.30.5,2096,SG,Streamline Servers Pty Ltd
+172.237.81.60,2053,SG,Akamai Connected Cloud
+149.28.158.103,10030,SG,The Constant Company, LLC
+47.245.95.160,1443,SG,Alibaba (US) Technology Co., Ltd.
+64.235.43.223,443,SG,ServerPoint.com
+43.156.27.180,8443,SG,Tencent Building, Kejizhongyi Avenue
+213.35.100.31,47112,SG,Oracle Corporation
+213.35.108.135,12596,SG,Oracle Corporation
+139.59.104.25,2083,SG,DigitalOcean, LLC
+54.255.217.120,8192,SG,Amazon.com, Inc.
+47.130.35.116,8888,SG,Amazon.com, Inc.
+5.223.49.4,2053,SG,Hetzner Online GmbH
+138.2.93.88,443,SG,Oracle Corporation
+5.34.176.119,81,SG,GREEN FLOID LLC
+8.219.233.64,443,SG,Alibaba (US) Technology Co., Ltd.
+54.254.221.222,443,SG,Amazon.com, Inc.
+8.219.155.21,443,SG,Alibaba (US) Technology Co., Ltd.
+8.222.237.72,443,SG,Alibaba (US) Technology Co., Ltd.
+167.253.158.63,8443,SG,LEASEWEB SINGAPORE PTE. LTD.
+5.223.55.245,8443,SG,Hetzner Online GmbH
+47.245.85.72,443,SG,Alibaba (US) Technology Co., Ltd.
+47.236.21.74,443,SG,Alibaba (US) Technology Co., Ltd.
+64.235.43.144,443,SG,ServerPoint.com
+8.219.63.1,443,SG,Alibaba (US) Technology Co., Ltd.
+8.219.201.154,443,SG,Alibaba (US) Technology Co., Ltd.
+175.156.84.31,8443,SG,MobileOne Ltd. Mobile/Internet Service Provider Singapore
+8.219.126.137,491,SG,Alibaba (US) Technology Co., Ltd.
+8.219.0.67,443,SG,Alibaba (US) Technology Co., Ltd.
+8.219.58.164,57373,SG,Alibaba (US) Technology Co., Ltd.
+8.219.59.132,48130,SG,Alibaba (US) Technology Co., Ltd.
+8.219.59.132,48964,SG,Alibaba (US) Technology Co., Ltd.
+138.2.77.179,30018,SG,Oracle Corporation
+138.2.81.243,45319,SG,Oracle Corporation
+138.2.69.236,23334,SG,Oracle Corporation
+138.2.89.64,32962,SG,Oracle Corporation
+138.2.89.238,43254,SG,Oracle Corporation
+138.2.95.33,17465,SG,Oracle Corporation
+8.222.159.134,12483,SG,Alibaba (US) Technology Co., Ltd.
+8.222.159.134,12314,SG,Alibaba (US) Technology Co., Ltd.
+138.75.209.209,80,SG,MobileOne Ltd. Mobile/Internet Service Provider Singapore
+138.2.95.61,1111,SG,Oracle Corporation
+152.42.254.139,443,SG,DigitalOcean, LLC
+172.104.161.151,443,SG,Akamai Connected Cloud
+192.46.231.158,443,SG,Akamai Connected Cloud
+172.105.120.36,443,SG,Akamai Connected Cloud
+172.104.161.205,443,SG,Akamai Connected Cloud
+143.42.66.91,443,SG,Akamai Connected Cloud
+139.177.185.196,443,SG,Akamai Connected Cloud
+68.183.235.122,443,SG,DigitalOcean, LLC
+139.177.185.88,443,SG,Akamai Connected Cloud
+139.180.191.96,31001,SG,The Constant Company, LLC
+139.180.215.77,57878,SG,The Constant Company, LLC
+8.222.220.81,25435,SG,Alibaba (US) Technology Co., Ltd.
+8.222.213.91,587,SG,Alibaba (US) Technology Co., Ltd.
+45.32.101.149,443,SG,The Constant Company, LLC
+45.32.124.255,443,SG,The Constant Company, LLC
+104.248.159.99,443,SG,DigitalOcean, LLC
+66.42.56.237,443,SG,The Constant Company, LLC
+66.42.51.60,8443,SG,The Constant Company, LLC
+207.148.124.166,443,SG,The Constant Company, LLC
+45.76.179.81,443,SG,The Constant Company, LLC
+45.76.157.34,443,SG,The Constant Company, LLC
+139.180.146.128,443,SG,The Constant Company, LLC
+45.32.116.252,443,SG,The Constant Company, LLC
+139.162.53.195,2053,SG,Akamai Connected Cloud
+45.32.106.141,443,SG,The Constant Company, LLC
+149.28.139.245,443,SG,The Constant Company, LLC
+45.76.178.150,443,SG,The Constant Company, LLC
+66.42.61.1,443,SG,The Constant Company, LLC
+194.233.67.216,8443,SG,Contabo Asia Private Limited
+45.76.188.229,443,SG,The Constant Company, LLC
+45.32.121.244,443,SG,The Constant Company, LLC
+45.77.47.155,443,SG,The Constant Company, LLC
+45.76.159.76,443,SG,The Constant Company, LLC
+139.180.154.158,443,SG,The Constant Company, LLC
+45.32.121.217,443,SG,The Constant Company, LLC
+45.76.189.82,443,SG,The Constant Company, LLC
+47.130.110.89,443,SG,Amazon.com, Inc.
+38.180.249.123,443,SG,M247 Europe SRL
+178.128.86.3,443,SG,DigitalOcean, LLC
+168.138.165.174,443,SG,Oracle Corporation
+38.244.147.68,443,SG,M247 Europe SRL
+38.244.147.68,2053,SG,M247 Europe SRL
+104.43.91.69,443,SG,Microsoft Corporation
+163.47.10.109,8443,SG,DigitalOcean, LLC
+129.226.150.167,443,SG,Tencent Building, Kejizhongyi Avenue
+13.76.102.145,443,SG,Microsoft Corporation
+113.29.226.134,443,SG,NewMedia Express Pte Ltd
+40.65.162.116,443,SG,Microsoft Corporation
+157.230.240.184,443,SG,DigitalOcean, LLC
+18.136.213.164,443,SG,Amazon.com, Inc.
+92.112.21.24,443,SG,Coaxial Cable LLC
+54.251.16.83,443,SG,Amazon.com, Inc.
+13.250.31.132,443,SG,Amazon.com, Inc.
+52.74.101.26,443,SG,Amazon.com, Inc.
+13.250.97.146,443,SG,Amazon.com, Inc.
+13.212.213.77,8443,SG,Amazon.com, Inc.
+13.250.14.76,443,SG,Amazon.com, Inc.
+3.0.50.69,443,SG,Amazon.com, Inc.
+83.142.30.134,2096,SG,Streamline Servers Pty Ltd
+15.235.199.103,8443,SG,OVH SAS
+64.235.43.213,443,SG,ServerPoint.com
+15.235.162.19,443,SG,OVH SAS
+138.2.102.210,443,SG,Oracle Corporation
+20.205.177.152,443,SG,Microsoft Corporation
+185.114.78.230,443,SG,Aryaka Networks, Inc.
+47.236.154.27,443,SG,Alibaba (US) Technology Co., Ltd.
+109.224.228.174,443,SG,BUNNYWAY, informacijske storitve d.o.o.
+185.206.250.247,443,SG,IDC Cube
+92.112.22.94,443,SG,Coaxial Cable LLC
+43.160.202.92,443,SG,Tencent Building, Kejizhongyi Avenue
+51.79.158.58,8443,SG,OVH SAS
+134.209.96.76,443,SG,DigitalOcean, LLC
+68.183.235.165,443,SG,DigitalOcean, LLC
+104.234.151.10,8443,SG,MoeChuang Network Limited
+152.42.228.222,2053,SG,DigitalOcean, LLC
+128.199.181.227,2087,SG,DigitalOcean, LLC
+194.127.193.124,24467,SG,LEASEWEB SINGAPORE PTE. LTD.
+194.127.193.240,50791,SG,LEASEWEB SINGAPORE PTE. LTD.
+167.99.73.22,443,SG,DigitalOcean, LLC
+15.235.199.103,2053,SG,OVH SAS
+8.222.161.217,443,SG,Alibaba (US) Technology Co., Ltd.
+111.119.215.93,443,SG,HUAWEI CLOUDS
+47.130.115.157,443,SG,Amazon.com, Inc.
+202.73.51.244,443,SG,Viewqwest Pte Ltd
+140.245.48.42,443,SG,Oracle Corporation
+4.194.170.167,443,SG,Microsoft Corporation
+178.128.80.43,443,SG,DigitalOcean, LLC
+83.142.30.4,2096,SG,Streamline Servers Pty Ltd
+194.36.178.36,2053,SG,FIRST SERVER LIMITED
+194.36.179.17,2053,SG,FIRST SERVER LIMITED
+64.235.61.166,443,SG,ServerPoint.com
+194.36.179.5,2053,SG,FIRST SERVER LIMITED
+194.36.179.17,8443,SG,FIRST SERVER LIMITED
+172.93.186.43,443,SG,xTom Pty Ltd
+68.183.227.4,443,SG,DigitalOcean, LLC
+213.35.107.73,443,SG,Oracle Corporation
+209.97.173.243,443,SG,DigitalOcean, LLC
+158.178.243.152,61731,SG,Oracle Corporation
+158.178.236.14,61731,SG,Oracle Corporation
+158.178.246.142,61731,SG,Oracle Corporation
+139.99.124.165,443,SG,OVH SAS
+84.247.150.170,8443,SG,Contabo Asia Private Limited
+140.245.97.193,443,SG,Oracle Corporation
+188.166.249.31,443,SG,DigitalOcean, LLC
+103.214.23.52,443,SG,HostHatch, LLC
+128.199.128.28,123,SG,DigitalOcean, LLC
+129.150.54.20,13666,SG,Oracle Corporation
+129.150.49.58,18650,SG,Oracle Corporation
+129.150.58.86,57621,SG,Oracle Corporation
+129.150.36.188,53435,SG,Oracle Corporation
+129.150.35.29,587,SG,Oracle Corporation
+68.183.233.152,2053,SG,DigitalOcean, LLC
+68.183.227.180,443,SG,DigitalOcean, LLC
+47.236.108.36,443,SG,Alibaba (US) Technology Co., Ltd.
+150.109.11.223,443,SG,Tencent Building, Kejizhongyi Avenue
+160.22.79.155,443,SG,Onidel Pty Ltd
+47.237.82.13,443,SG,Alibaba (US) Technology Co., Ltd.
+160.22.79.179,443,SG,Onidel Pty Ltd
+161.117.81.228,4443,SG,Alibaba (US) Technology Co., Ltd.
+161.117.249.114,2025,SG,Alibaba (US) Technology Co., Ltd.
+194.156.163.45,443,SG,Misaka Network, Inc.
+128.199.216.53,443,SG,DigitalOcean, LLC
+47.236.109.216,443,SG,Alibaba (US) Technology Co., Ltd.
+113.29.232.213,443,SG,NewMedia Express Pte Ltd
+178.128.30.71,443,SG,DigitalOcean, LLC
+47.236.140.205,443,SG,Alibaba (US) Technology Co., Ltd.
+185.81.28.95,30503,SG,AkileCloud Network
+143.198.196.196,8443,SG,DigitalOcean, LLC
+103.195.191.55,443,SG,Dromatics Systems Pte Ltd
+20.247.137.183,443,SG,Microsoft Corporation
+168.138.184.172,443,SG,Oracle Corporation
+15.235.192.85,443,SG,OVH SAS
+47.236.188.199,443,SG,Alibaba (US) Technology Co., Ltd.
+47.236.94.90,443,SG,Alibaba (US) Technology Co., Ltd.
+8.219.165.135,443,SG,Alibaba (US) Technology Co., Ltd.
+128.199.125.131,443,SG,DigitalOcean, LLC
+158.178.229.178,443,SG,Oracle Corporation
+5.223.75.87,443,SG,Hetzner Online GmbH
+47.74.254.191,8900,SG,Alibaba (US) Technology Co., Ltd.
+51.79.141.135,443,SG,OVH SAS
+152.42.241.71,8443,SG,DigitalOcean, LLC
+128.199.134.152,443,SG,DigitalOcean, LLC
+152.42.241.71,2053,SG,DigitalOcean, LLC
+68.183.227.216,443,SG,DigitalOcean, LLC
+31.192.238.71,8443,SG,Chelyabinsk-Signal LLC
+157.20.104.30,443,SG,Host Universal Pty Ltd
+139.59.104.29,443,SG,DigitalOcean, LLC
+168.138.189.91,443,SG,Oracle Corporation
+138.2.107.107,443,SG,Oracle Corporation
+164.52.2.98,443,SG,CDS Global Cloud Co., Ltd
+43.252.21.100,443,SG,HaloCloud Network Limited
+138.2.64.229,443,SG,Oracle Corporation
+164.52.2.99,443,SG,CDS Global Cloud Co., Ltd
+143.198.196.196,2053,SG,DigitalOcean, LLC
+206.189.85.0,443,SG,DigitalOcean, LLC
+160.22.79.166,443,SG,Onidel Pty Ltd
+167.253.158.63,2053,SG,LEASEWEB SINGAPORE PTE. LTD.
+143.198.92.220,443,SG,DigitalOcean, LLC
+163.47.10.109,2053,SG,DigitalOcean, LLC
+91.192.81.154,8443,SG,Melbikomas UAB
+34.143.159.175,443,SG,Google LLC
+45.32.100.46,13802,SG,The Constant Company, LLC
+168.138.181.188,61731,SG,Oracle Corporation
+168.138.171.70,23280,SG,Oracle Corporation
+38.181.70.7,16240,SG,Eons Data Communications Limited
+168.138.170.211,53702,SG,Oracle Corporation
+47.236.29.162,443,SG,Alibaba (US) Technology Co., Ltd.
+159.223.53.70,8443,SG,DigitalOcean, LLC
+68.183.227.45,443,SG,DigitalOcean, LLC
+110.34.164.39,28758,SG,VPLS ASIA
+47.74.157.194,443,SG,Alibaba (US) Technology Co., Ltd.
+52.76.110.129,20001,SG,Amazon.com, Inc.
+13.250.131.37,443,SG,Amazon.com, Inc.
+47.245.122.46,443,SG,Alibaba (US) Technology Co., Ltd.
+47.236.86.141,443,SG,Alibaba (US) Technology Co., Ltd.
+45.76.183.217,49292,SG,The Constant Company, LLC
+152.42.220.9,8443,SG,DigitalOcean, LLC
+45.88.42.34,2053,SG,Datacamp Limited
+172.237.81.60,8443,SG,Akamai Connected Cloud
+5.223.47.32,443,SG,Hetzner Online GmbH
+185.206.250.2,443,SG,IDC Cube
+103.229.96.157,443,SG,Epsilon Telecommunications Ltd
+165.154.203.69,443,SG,Scloud Pte Ltd
+194.36.178.36,8443,SG,FIRST SERVER LIMITED
+43.160.245.199,443,SG,Tencent Building, Kejizhongyi Avenue
+152.42.220.9,443,SG,DigitalOcean, LLC
+43.252.21.110,443,SG,HaloCloud Network Limited
+158.178.244.26,443,SG,Oracle Corporation
+207.148.77.27,443,SG,The Constant Company, LLC
+139.180.188.177,443,SG,The Constant Company, LLC
+194.87.10.127,8443,SG,Baxet Group Inc.
+57.155.28.171,443,SG,Microsoft Corporation
+4.145.124.60,443,SG,Microsoft Corporation
+47.236.79.108,443,SG,Alibaba (US) Technology Co., Ltd.
+146.190.104.232,443,SG,DigitalOcean, LLC
+8.219.181.196,443,SG,Alibaba (US) Technology Co., Ltd.
+8.219.114.161,443,SG,Alibaba (US) Technology Co., Ltd.
+8.219.170.224,443,SG,Alibaba (US) Technology Co., Ltd.
+174.138.30.172,8443,SG,DigitalOcean, LLC
+8.222.218.155,443,SG,Alibaba (US) Technology Co., Ltd.
+157.245.204.209,443,SG,DigitalOcean, LLC
+159.89.208.94,443,SG,DigitalOcean, LLC
+168.138.185.234,443,SG,Oracle Corporation
+159.223.62.35,443,SG,DigitalOcean, LLC
+167.71.198.82,8443,SG,DigitalOcean, LLC
+152.42.178.179,443,SG,DigitalOcean, LLC
+3.0.39.179,443,SG,Amazon.com, Inc.
+128.199.237.143,443,SG,DigitalOcean, LLC
+178.128.124.97,443,SG,DigitalOcean, LLC
+128.199.134.160,443,SG,DigitalOcean, LLC
+128.199.93.107,8443,SG,DigitalOcean, LLC
+43.156.107.236,12131,SG,Tencent Building, Kejizhongyi Avenue
+185.115.207.218,443,SG,ByteVirt LLC
+157.230.195.74,443,SG,DigitalOcean, LLC
+152.42.236.151,8443,SG,DigitalOcean, LLC
+152.42.236.151,2053,SG,DigitalOcean, LLC
+104.248.145.216,443,SG,DigitalOcean, LLC
+8.219.198.98,443,SG,Alibaba (US) Technology Co., Ltd.
+47.236.154.20,443,SG,Alibaba (US) Technology Co., Ltd.
+8.219.107.90,443,SG,Alibaba (US) Technology Co., Ltd.
+47.236.163.74,443,SG,Alibaba (US) Technology Co., Ltd.
+139.162.4.242,8443,SG,Akamai Connected Cloud
+138.3.222.33,443,JP,Oracle Corporation
+168.138.46.67,443,JP,Oracle Corporation
+140.238.50.134,443,JP,Oracle Corporation
+168.138.213.1,50003,JP,Oracle Corporation
+64.110.101.90,55007,JP,Oracle Corporation
+168.138.46.115,43138,JP,Oracle Corporation
+172.104.127.132,443,JP,Akamai Connected Cloud
+172.104.117.43,12452,JP,Akamai Connected Cloud
+64.176.39.147,16387,JP,The Constant Company, LLC
+64.176.40.224,3533,JP,The Constant Company, LLC
+64.176.42.125,10001,JP,The Constant Company, LLC
+64.176.42.125,10008,JP,The Constant Company, LLC
+141.147.188.120,443,JP,Oracle Corporation
+172.105.199.137,443,JP,Akamai Connected Cloud
+49.212.133.94,443,JP,SAKURA Internet Inc.
+172.105.199.111,443,JP,Akamai Connected Cloud
+132.145.115.62,443,JP,Oracle Corporation
+168.138.51.8,8443,JP,Oracle Corporation
+140.83.63.113,443,JP,Oracle Corporation
+185.184.223.85,8443,JP,xTom Japan Corporation
+5.226.50.109,443,JP,Akari Networks
+113.37.149.36,12553,JP,ARTERIA Networks Corporation
+147.45.49.193,2053,JP,GLOBAL CONNECTIVITY SOLUTIONS LLP
+147.79.20.47,443,JP,ByteVirt LLC
+109.123.231.212,443,JP,Contabo Asia Private Limited
+172.104.113.18,443,JP,Akamai Connected Cloud
+47.79.41.201,443,JP,Alibaba (US) Technology Co., Ltd.
+43.133.10.236,33405,JP,Tencent Building, Kejizhongyi Avenue
+47.79.43.222,443,JP,Alibaba (US) Technology Co., Ltd.
+38.182.105.171,443,JP,GLOBAL COMMUNICATION NETWORK LIMITED
+212.52.0.61,1846,JP,HostHatch, LLC
+47.79.92.16,443,JP,Alibaba (US) Technology Co., Ltd.
+52.198.201.0,443,JP,Amazon.com, Inc.
+151.248.68.11,2053,JP,Datacamp Limited
+152.69.199.70,8443,JP,Oracle Corporation
+152.69.192.40,57005,JP,Oracle Corporation
+176.97.70.121,443,JP,M247 Europe SRL
+176.97.70.154,443,JP,M247 Europe SRL
+176.97.70.119,443,JP,M247 Europe SRL
+47.79.35.191,443,JP,Alibaba (US) Technology Co., Ltd.
+176.97.70.166,443,JP,M247 Europe SRL
+147.45.49.11,2053,JP,GLOBAL CONNECTIVITY SOLUTIONS LLP
+147.45.49.11,8443,JP,GLOBAL CONNECTIVITY SOLUTIONS LLP
+176.97.73.81,443,JP,M247 Europe SRL
+138.2.4.201,443,JP,Oracle Corporation
+147.45.49.80,2053,JP,GLOBAL CONNECTIVITY SOLUTIONS LLP
+147.45.49.164,24443,JP,GLOBAL CONNECTIVITY SOLUTIONS LLP
+192.243.125.209,8443,JP,IT7 Networks Inc
+91.194.160.121,2053,JP,PQ HOSTING PLUS S.R.L.
+91.194.160.45,2053,JP,PQ HOSTING PLUS S.R.L.
+158.179.190.158,443,JP,Oracle Corporation
+161.33.136.87,443,JP,Oracle Corporation
+176.97.70.51,2053,JP,M247 Europe SRL
+5.253.41.42,443,JP,PQ HOSTING PLUS S.R.L.
+168.110.60.202,443,JP,Oracle Corporation
+5.180.76.44,443,JP,Datacamp Limited
+131.186.63.89,11655,JP,Oracle Corporation
+47.79.42.15,443,JP,Alibaba (US) Technology Co., Ltd.
+132.145.126.40,32498,JP,Oracle Corporation
+202.55.27.166,443,JP,China Telecom Next Generation Carrier Network
+152.70.101.24,16031,JP,Oracle Corporation
+152.70.101.24,16001,JP,Oracle Corporation
+152.70.101.24,16004,JP,Oracle Corporation
+152.70.101.24,16030,JP,Oracle Corporation
+152.70.101.24,16038,JP,Oracle Corporation
+152.70.101.24,16028,JP,Oracle Corporation
+152.70.101.24,16007,JP,Oracle Corporation
+152.70.101.24,16037,JP,Oracle Corporation
+172.104.122.75,443,JP,Akamai Connected Cloud
+152.70.101.24,16040,JP,Oracle Corporation
+152.70.101.24,16043,JP,Oracle Corporation
+152.70.101.24,16048,JP,Oracle Corporation
+152.70.101.24,16063,JP,Oracle Corporation
+147.45.49.80,8443,JP,GLOBAL CONNECTIVITY SOLUTIONS LLP
+152.70.101.24,16077,JP,Oracle Corporation
+152.70.101.24,16056,JP,Oracle Corporation
+152.70.101.24,16072,JP,Oracle Corporation
+152.70.101.24,16059,JP,Oracle Corporation
+152.70.101.24,16055,JP,Oracle Corporation
+152.70.101.24,16800,JP,Oracle Corporation
+152.70.101.24,16096,JP,Oracle Corporation
+152.70.101.24,16050,JP,Oracle Corporation
+152.70.101.24,16401,JP,Oracle Corporation
+152.70.101.24,16667,JP,Oracle Corporation
+152.70.101.24,16404,JP,Oracle Corporation
+152.70.101.24,16054,JP,Oracle Corporation
+152.70.101.24,16666,JP,Oracle Corporation
+152.70.101.24,16993,JP,Oracle Corporation
+167.253.156.47,443,JP,xTom Japan Corporation
+202.78.167.77,443,JP,G-Core Labs S.A.
+140.245.86.46,443,JP,Oracle Corporation
+8.209.220.50,21273,JP,Alibaba (US) Technology Co., Ltd.
+132.226.8.109,43257,JP,Oracle Corporation
+203.137.166.120,50090,JP,IDC Frontier Inc.
+45.32.49.72,9443,JP,The Constant Company, LLC
+217.142.236.93,443,JP,Oracle Corporation
+155.248.181.189,443,JP,Oracle Corporation
+64.176.55.11,29999,JP,The Constant Company, LLC
+217.142.250.195,587,JP,Oracle Corporation
+217.142.230.253,587,JP,Oracle Corporation
+217.142.243.98,51321,JP,Oracle Corporation
+47.79.38.17,443,JP,Alibaba (US) Technology Co., Ltd.
+138.2.10.149,45638,JP,Oracle Corporation
+138.2.10.217,27446,JP,Oracle Corporation
+8.216.121.234,51922,JP,Alibaba (US) Technology Co., Ltd.
+138.2.18.82,8880,JP,Oracle Corporation
+138.2.32.76,15821,JP,Oracle Corporation
+138.2.49.197,587,JP,Oracle Corporation
+138.2.59.96,10129,JP,Oracle Corporation
+47.79.42.197,443,JP,Alibaba (US) Technology Co., Ltd.
+138.3.217.167,587,JP,Oracle Corporation
+138.3.222.124,46209,JP,Oracle Corporation
+138.2.48.109,26412,JP,Oracle Corporation
+103.42.107.254,8443,JP,Guangzhou LinSeek Network Technology Co.Ltd
+141.147.168.141,443,JP,Oracle Corporation
+141.147.159.250,443,JP,Oracle Corporation
+139.162.102.152,7002,JP,Akamai Connected Cloud
+139.162.123.89,443,JP,Akamai Connected Cloud
+139.162.119.240,443,JP,Akamai Connected Cloud
+172.105.226.139,443,JP,Akamai Connected Cloud
+139.162.113.147,443,JP,Akamai Connected Cloud
+172.105.194.182,443,JP,Akamai Connected Cloud
+172.104.116.214,443,JP,Akamai Connected Cloud
+139.162.108.5,443,JP,Akamai Connected Cloud
+172.105.194.109,443,JP,Akamai Connected Cloud
+172.104.113.112,443,JP,Akamai Connected Cloud
+139.162.83.190,443,JP,Akamai Connected Cloud
+139.162.84.132,18836,JP,Akamai Connected Cloud
+172.105.199.91,443,JP,Akamai Connected Cloud
+172.105.197.128,443,JP,Akamai Connected Cloud
+139.162.79.151,587,JP,Akamai Connected Cloud
+45.76.52.128,443,JP,The Constant Company, LLC
+167.179.96.121,443,JP,The Constant Company, LLC
+202.182.118.106,443,JP,The Constant Company, LLC
+45.76.198.248,443,JP,The Constant Company, LLC
+45.63.123.176,443,JP,The Constant Company, LLC
+202.182.122.164,443,JP,The Constant Company, LLC
+45.76.111.190,443,JP,The Constant Company, LLC
+45.77.178.190,443,JP,The Constant Company, LLC
+108.160.141.198,443,JP,The Constant Company, LLC
+108.160.139.154,8443,JP,The Constant Company, LLC
+45.32.252.168,443,JP,The Constant Company, LLC
+108.61.126.17,443,JP,The Constant Company, LLC
+207.148.113.196,443,JP,The Constant Company, LLC
+149.28.18.161,443,JP,The Constant Company, LLC
+149.28.25.176,443,JP,The Constant Company, LLC
+207.148.105.247,443,JP,The Constant Company, LLC
+167.179.86.6,8443,JP,The Constant Company, LLC
+141.98.197.101,11665,JP,xTom Japan Corporation
+66.42.32.115,443,JP,The Constant Company, LLC
+167.179.116.28,443,JP,The Constant Company, LLC
+43.224.34.60,443,JP,The Constant Company, LLC
+104.238.151.229,443,JP,The Constant Company, LLC
+45.32.55.253,443,JP,The Constant Company, LLC
+45.77.9.114,443,JP,The Constant Company, LLC
+167.179.110.68,8443,JP,The Constant Company, LLC
+149.28.21.106,443,JP,The Constant Company, LLC
+45.76.100.173,443,JP,The Constant Company, LLC
+202.182.116.249,8443,JP,The Constant Company, LLC
+167.179.67.96,443,JP,The Constant Company, LLC
+45.77.176.87,443,JP,The Constant Company, LLC
+45.76.193.107,443,JP,The Constant Company, LLC
+152.70.82.101,18650,JP,Oracle Corporation
+64.176.36.17,443,JP,The Constant Company, LLC
+219.117.2.190,57517,JP,JCOM Co., Ltd.
+219.117.2.190,48401,JP,JCOM Co., Ltd.
+154.31.113.72,443,JP,DMIT Cloud Services
+206.237.120.143,443,JP,VMISS Inc.
+38.207.130.138,443,JP,AkileCloud Network
+154.31.114.136,443,JP,DMIT Cloud Services
+158.101.71.226,8443,JP,Oracle Corporation
+38.180.28.163,2053,JP,M247 Europe SRL
+178.157.56.26,443,JP,IT7 Networks Inc
+118.21.134.114,12553,JP,NTT Communications Corporation
+118.27.12.40,38443,JP,GMO Internet Group, Inc.
+38.180.28.163,8443,JP,M247 Europe SRL
+38.47.127.214,443,JP,VMISS Inc.
+132.145.127.203,8443,JP,Oracle Corporation
+38.180.29.40,2053,JP,M247 Europe SRL
+43.165.183.43,443,JP,Tencent Building, Kejizhongyi Avenue
+139.162.83.77,443,JP,Akamai Connected Cloud
+20.78.59.52,443,JP,Microsoft Corporation
+140.235.37.81,443,JP,ByteVirt LLC
+27.83.68.142,8443,JP,KDDI CORPORATION
+141.147.185.15,443,JP,Oracle Corporation
+82.163.16.69,8080,JP,AkileCloud Network
+82.163.16.229,26803,JP,AkileCloud Network
+18.178.124.68,443,JP,Amazon.com, Inc.
+15.168.175.167,2087,JP,Amazon.com, Inc.
+141.147.185.63,443,JP,Oracle Corporation
+43.206.192.211,443,JP,Amazon.com, Inc.
+52.198.130.69,443,JP,Amazon.com, Inc.
+18.183.158.211,443,JP,Amazon.com, Inc.
+18.183.222.39,443,JP,Amazon.com, Inc.
+130.33.72.202,443,JP,Microsoft Corporation
+52.194.236.221,8443,JP,Amazon.com, Inc.
+35.78.229.176,443,JP,Amazon.com, Inc.
+47.74.16.180,443,JP,Alibaba (US) Technology Co., Ltd.
+35.75.160.251,443,JP,Amazon.com, Inc.
+3.112.21.102,443,JP,Amazon.com, Inc.
+13.231.224.213,443,JP,Amazon.com, Inc.
+156.231.117.209,443,JP,AkileCloud Network
+64.110.101.31,8443,JP,Oracle Corporation
+138.2.16.61,443,JP,Oracle Corporation
+108.61.247.238,443,JP,The Constant Company, LLC
+158.101.80.84,443,JP,Oracle Corporation
+140.238.37.103,14782,JP,Oracle Corporation
+140.238.38.81,587,JP,Oracle Corporation
+158.101.140.206,443,JP,Oracle Corporation
+140.238.62.82,1443,JP,Oracle Corporation
+139.162.83.82,443,JP,Akamai Connected Cloud
+140.238.58.181,2053,JP,Oracle Corporation
+138.2.5.136,443,JP,Oracle Corporation
+193.246.161.65,54310,JP,AkileCloud Network
+132.145.116.185,443,JP,Oracle Corporation
+153.121.45.101,443,JP,SAKURA Internet Inc.
+132.145.127.203,2053,JP,Oracle Corporation
+147.79.20.239,443,JP,ByteVirt LLC
+152.70.97.53,443,JP,Oracle Corporation
+155.248.184.178,30011,JP,Oracle Corporation
+84.247.152.46,10045,JP,Contabo Asia Private Limited
+96.62.214.243,443,JP,Datacamp Limited
+150.230.59.15,8443,JP,Oracle Corporation
+185.18.222.208,2053,JP,Latitude.sh
+172.104.116.38,443,JP,Akamai Connected Cloud
+23.106.132.54,443,JP,IT7 Networks Inc
+23.106.140.129,443,JP,IT7 Networks Inc
+192.243.126.31,443,JP,IT7 Networks Inc
+172.105.199.184,443,JP,Akamai Connected Cloud
+140.83.37.134,46478,JP,Oracle Corporation
+47.79.85.78,443,JP,Alibaba (US) Technology Co., Ltd.
+140.83.57.183,22735,JP,Oracle Corporation
+158.101.154.245,47001,JP,Oracle Corporation
+158.101.146.3,44872,JP,Oracle Corporation
+158.101.152.6,2919,JP,Oracle Corporation
+140.83.60.81,18443,JP,Oracle Corporation
+158.101.146.3,54516,JP,Oracle Corporation
+140.83.57.114,25965,JP,Oracle Corporation
+140.83.56.110,56417,JP,Oracle Corporation
+121.85.55.59,19842,JP,OPTAGE Inc.
+140.83.59.158,15805,JP,Oracle Corporation
+140.83.57.20,13118,JP,Oracle Corporation
+140.83.57.86,54322,JP,Oracle Corporation
+109.123.231.212,2053,JP,Contabo Asia Private Limited
+109.61.109.40,443,JP,Host Universal Pty Ltd
+140.83.83.65,9872,JP,Oracle Corporation
+217.142.226.168,443,JP,Oracle Corporation
+158.101.76.55,21953,JP,Oracle Corporation
+158.101.89.113,50443,JP,Oracle Corporation
+38.207.137.217,443,JP,Nearoute Limited
+147.78.247.7,443,JP,xTom Japan Corporation
+43.207.165.94,443,JP,Amazon.com, Inc.
+103.106.0.123,443,JP,PQ HOSTING PLUS S.R.L.
+109.61.109.42,443,JP,Host Universal Pty Ltd
+43.165.191.216,443,JP,Tencent Building, Kejizhongyi Avenue
+43.133.26.158,443,JP,Tencent Building, Kejizhongyi Avenue
+139.162.83.207,443,JP,Akamai Connected Cloud
+74.176.185.219,443,JP,Microsoft Corporation
+156.231.113.162,443,JP,AkileCloud Network
+151.248.68.11,2083,JP,Datacamp Limited
+159.100.194.42,443,JP,Aryaka Networks, Inc.
+158.51.111.105,443,JP,DDPS Networks, LLC
+158.101.69.250,443,JP,Oracle Corporation
+45.146.163.31,443,JP,Apple Network, LLC
+140.245.88.197,443,JP,Oracle Corporation
+43.153.155.49,443,JP,Tencent Building, Kejizhongyi Avenue
+160.251.142.232,443,JP,GMO Internet Group, Inc.
+38.207.130.210,443,JP,AkileCloud Network
+217.142.243.226,443,JP,Oracle Corporation
+202.84.53.85,19999,JP,Azumino Network Community TV
+103.106.228.126,2053,JP,BrainStorm Network, Inc
+161.33.144.69,443,JP,Oracle Corporation
+45.11.1.118,44004,JP,Datacamp Limited
+103.238.129.215,42734,JP,WAP.AC LTD
+103.232.213.117,8080,JP,AkileCloud Network
+103.75.118.144,2053,JP,BrainStorm Network, Inc
+150.230.206.150,443,JP,Oracle Corporation
+47.74.8.30,2443,JP,Alibaba (US) Technology Co., Ltd.
+132.145.114.128,443,JP,Oracle Corporation
+103.125.216.22,8443,JP,Kamatera, Inc.
+91.194.160.45,8443,JP,PQ HOSTING PLUS S.R.L.
+47.79.90.37,49153,JP,Alibaba (US) Technology Co., Ltd.
+47.79.34.117,10036,JP,Alibaba (US) Technology Co., Ltd.
+141.147.147.180,443,JP,Oracle Corporation
+47.79.86.103,587,JP,Alibaba (US) Technology Co., Ltd.
+150.230.204.21,10243,JP,Oracle Corporation
+150.230.214.172,16957,JP,Oracle Corporation
+141.147.144.15,13357,JP,Oracle Corporation
+141.147.162.24,1235,JP,Oracle Corporation
+138.2.39.24,443,JP,Oracle Corporation
+141.147.161.249,51037,JP,Oracle Corporation
+141.147.152.229,23333,JP,Oracle Corporation
+152.69.195.36,443,JP,Oracle Corporation
+158.101.77.33,443,JP,Oracle Corporation
+150.230.5.34,45681,JP,Oracle Corporation
+64.110.104.30,443,JP,Oracle Corporation
+151.248.68.11,8443,JP,Datacamp Limited
+141.147.183.49,29876,JP,Oracle Corporation
+198.13.42.58,32954,JP,The Constant Company, LLC
+45.83.22.102,8443,JP,PQ HOSTING PLUS S.R.L.
+168.138.197.147,12345,JP,Oracle Corporation
+45.159.51.121,32199,JP,xTom Japan Corporation
+168.138.192.16,54584,JP,Oracle Corporation
+168.138.194.74,443,JP,Oracle Corporation
+168.138.193.174,11959,JP,Oracle Corporation
+168.138.198.7,27560,JP,Oracle Corporation
+210.138.37.53,443,JP,Internet Initiative Japan Inc.
+108.61.201.87,8443,JP,The Constant Company, LLC
+168.138.201.35,36637,JP,Oracle Corporation
+45.66.218.194,12965,JP,xTom Japan Corporation
+45.66.218.194,12959,JP,xTom Japan Corporation
+45.77.25.6,27854,JP,The Constant Company, LLC
+45.77.25.6,48828,JP,The Constant Company, LLC
+45.76.192.129,24434,JP,The Constant Company, LLC
+13.230.34.30,443,JP,Amazon.com, Inc.
+103.125.216.22,443,JP,Kamatera, Inc.
+193.123.161.116,443,JP,Oracle Corporation
+156.231.140.69,443,JP,ACCK LLC
+210.231.178.90,443,JP,NTT PC Communications, Inc.
+172.104.113.29,443,JP,Akamai Connected Cloud
+154.85.20.249,443,JP,ACCK LLC
+208.75.133.227,443,JP,Lamhosting LLC
+192.243.125.209,443,JP,IT7 Networks Inc
+150.230.196.248,443,JP,Oracle Corporation
+202.144.194.31,9998,JP,IPTELECOM ASIA
+168.138.212.80,443,JP,Oracle Corporation
+172.104.122.66,443,JP,Akamai Connected Cloud
+138.2.61.180,443,JP,Oracle Corporation
+176.97.70.109,443,JP,M247 Europe SRL
+64.176.52.132,443,JP,The Constant Company, LLC
+158.101.131.94,2083,JP,Oracle Corporation
+64.176.46.50,443,JP,The Constant Company, LLC
+45.32.63.94,443,JP,The Constant Company, LLC
+38.47.126.88,443,JP,VMISS Inc.
+158.101.157.75,57105,JP,Oracle Corporation
+217.142.226.116,443,JP,Oracle Corporation
+52.253.107.207,443,JP,Microsoft Corporation
+74.176.199.245,443,JP,Microsoft Corporation
+20.243.153.190,8443,JP,Microsoft Corporation
+138.2.12.103,14453,JP,Oracle Corporation
+154.213.178.210,20880,JP,Zillion Network Inc.
+38.47.127.14,17185,JP,VMISS Inc.
+18.177.83.181,443,JP,Amazon.com, Inc.
+13.115.72.85,443,JP,Amazon.com, Inc.
+57.181.247.95,443,JP,Amazon.com, Inc.
+13.115.232.94,443,JP,Amazon.com, Inc.
+192.243.127.224,443,JP,IT7 Networks Inc
+91.194.160.79,8443,JP,PQ HOSTING PLUS S.R.L.
+91.194.160.79,2053,JP,PQ HOSTING PLUS S.R.L.
+152.70.82.70,1450,JP,Oracle Corporation
+5.253.41.168,443,JP,PQ HOSTING PLUS S.R.L.
+185.184.223.47,443,JP,xTom Japan Corporation
+47.91.16.77,443,JP,Alibaba (US) Technology Co., Ltd.
+35.189.137.210,443,JP,Google LLC
 45.155.102.207,443,DE,HOSTKEY B.V.
 94.228.170.187,443,DE,AEZA INTERNATIONAL LTD
 109.107.181.103,443,DE,AEZA INTERNATIONAL LTD
@@ -29594,666 +30290,6 @@
 185.145.245.104,443,LV,SIA VEESP
 185.145.245.203,443,LV,SIA VEESP
 5.34.214.83,443,LV,SIA VEESP
-138.3.222.33,443,JP,Oracle Corporation
-168.138.46.67,443,JP,Oracle Corporation
-140.238.50.134,443,JP,Oracle Corporation
-168.138.213.1,50003,JP,Oracle Corporation
-64.110.101.90,55007,JP,Oracle Corporation
-168.138.46.115,43138,JP,Oracle Corporation
-172.104.127.132,443,JP,Akamai Connected Cloud
-172.104.117.43,12452,JP,Akamai Connected Cloud
-64.176.39.147,16387,JP,The Constant Company, LLC
-64.176.40.224,3533,JP,The Constant Company, LLC
-64.176.42.125,10001,JP,The Constant Company, LLC
-64.176.42.125,10008,JP,The Constant Company, LLC
-141.147.188.120,443,JP,Oracle Corporation
-172.105.199.137,443,JP,Akamai Connected Cloud
-49.212.133.94,443,JP,SAKURA Internet Inc.
-172.105.199.111,443,JP,Akamai Connected Cloud
-132.145.115.62,443,JP,Oracle Corporation
-168.138.51.8,8443,JP,Oracle Corporation
-140.83.63.113,443,JP,Oracle Corporation
-185.184.223.85,8443,JP,xTom Japan Corporation
-5.226.50.109,443,JP,Akari Networks
-113.37.149.36,12553,JP,ARTERIA Networks Corporation
-147.45.49.193,2053,JP,GLOBAL CONNECTIVITY SOLUTIONS LLP
-147.79.20.47,443,JP,ByteVirt LLC
-109.123.231.212,443,JP,Contabo Asia Private Limited
-172.104.113.18,443,JP,Akamai Connected Cloud
-47.79.41.201,443,JP,Alibaba (US) Technology Co., Ltd.
-43.133.10.236,33405,JP,Tencent Building, Kejizhongyi Avenue
-47.79.43.222,443,JP,Alibaba (US) Technology Co., Ltd.
-38.182.105.171,443,JP,GLOBAL COMMUNICATION NETWORK LIMITED
-212.52.0.61,1846,JP,HostHatch, LLC
-47.79.92.16,443,JP,Alibaba (US) Technology Co., Ltd.
-52.198.201.0,443,JP,Amazon.com, Inc.
-151.248.68.11,2053,JP,Datacamp Limited
-152.69.199.70,8443,JP,Oracle Corporation
-152.69.192.40,57005,JP,Oracle Corporation
-176.97.70.121,443,JP,M247 Europe SRL
-176.97.70.154,443,JP,M247 Europe SRL
-176.97.70.119,443,JP,M247 Europe SRL
-47.79.35.191,443,JP,Alibaba (US) Technology Co., Ltd.
-176.97.70.166,443,JP,M247 Europe SRL
-147.45.49.11,2053,JP,GLOBAL CONNECTIVITY SOLUTIONS LLP
-147.45.49.11,8443,JP,GLOBAL CONNECTIVITY SOLUTIONS LLP
-176.97.73.81,443,JP,M247 Europe SRL
-138.2.4.201,443,JP,Oracle Corporation
-147.45.49.80,2053,JP,GLOBAL CONNECTIVITY SOLUTIONS LLP
-147.45.49.164,24443,JP,GLOBAL CONNECTIVITY SOLUTIONS LLP
-192.243.125.209,8443,JP,IT7 Networks Inc
-91.194.160.121,2053,JP,PQ HOSTING PLUS S.R.L.
-91.194.160.45,2053,JP,PQ HOSTING PLUS S.R.L.
-158.179.190.158,443,JP,Oracle Corporation
-161.33.136.87,443,JP,Oracle Corporation
-176.97.70.51,2053,JP,M247 Europe SRL
-5.253.41.42,443,JP,PQ HOSTING PLUS S.R.L.
-168.110.60.202,443,JP,Oracle Corporation
-5.180.76.44,443,JP,Datacamp Limited
-131.186.63.89,11655,JP,Oracle Corporation
-47.79.42.15,443,JP,Alibaba (US) Technology Co., Ltd.
-132.145.126.40,32498,JP,Oracle Corporation
-202.55.27.166,443,JP,China Telecom Next Generation Carrier Network
-152.70.101.24,16031,JP,Oracle Corporation
-152.70.101.24,16001,JP,Oracle Corporation
-152.70.101.24,16004,JP,Oracle Corporation
-152.70.101.24,16030,JP,Oracle Corporation
-152.70.101.24,16038,JP,Oracle Corporation
-152.70.101.24,16028,JP,Oracle Corporation
-152.70.101.24,16007,JP,Oracle Corporation
-152.70.101.24,16037,JP,Oracle Corporation
-172.104.122.75,443,JP,Akamai Connected Cloud
-152.70.101.24,16040,JP,Oracle Corporation
-152.70.101.24,16043,JP,Oracle Corporation
-152.70.101.24,16048,JP,Oracle Corporation
-152.70.101.24,16063,JP,Oracle Corporation
-147.45.49.80,8443,JP,GLOBAL CONNECTIVITY SOLUTIONS LLP
-152.70.101.24,16077,JP,Oracle Corporation
-152.70.101.24,16056,JP,Oracle Corporation
-152.70.101.24,16072,JP,Oracle Corporation
-152.70.101.24,16059,JP,Oracle Corporation
-152.70.101.24,16055,JP,Oracle Corporation
-152.70.101.24,16800,JP,Oracle Corporation
-152.70.101.24,16096,JP,Oracle Corporation
-152.70.101.24,16050,JP,Oracle Corporation
-152.70.101.24,16401,JP,Oracle Corporation
-152.70.101.24,16667,JP,Oracle Corporation
-152.70.101.24,16404,JP,Oracle Corporation
-152.70.101.24,16054,JP,Oracle Corporation
-152.70.101.24,16666,JP,Oracle Corporation
-152.70.101.24,16993,JP,Oracle Corporation
-167.253.156.47,443,JP,xTom Japan Corporation
-202.78.167.77,443,JP,G-Core Labs S.A.
-140.245.86.46,443,JP,Oracle Corporation
-8.209.220.50,21273,JP,Alibaba (US) Technology Co., Ltd.
-132.226.8.109,43257,JP,Oracle Corporation
-203.137.166.120,50090,JP,IDC Frontier Inc.
-45.32.49.72,9443,JP,The Constant Company, LLC
-217.142.236.93,443,JP,Oracle Corporation
-155.248.181.189,443,JP,Oracle Corporation
-64.176.55.11,29999,JP,The Constant Company, LLC
-217.142.250.195,587,JP,Oracle Corporation
-217.142.230.253,587,JP,Oracle Corporation
-217.142.243.98,51321,JP,Oracle Corporation
-47.79.38.17,443,JP,Alibaba (US) Technology Co., Ltd.
-138.2.10.149,45638,JP,Oracle Corporation
-138.2.10.217,27446,JP,Oracle Corporation
-8.216.121.234,51922,JP,Alibaba (US) Technology Co., Ltd.
-138.2.18.82,8880,JP,Oracle Corporation
-138.2.32.76,15821,JP,Oracle Corporation
-138.2.49.197,587,JP,Oracle Corporation
-138.2.59.96,10129,JP,Oracle Corporation
-47.79.42.197,443,JP,Alibaba (US) Technology Co., Ltd.
-138.3.217.167,587,JP,Oracle Corporation
-138.3.222.124,46209,JP,Oracle Corporation
-138.2.48.109,26412,JP,Oracle Corporation
-103.42.107.254,8443,JP,Guangzhou LinSeek Network Technology Co.Ltd
-141.147.168.141,443,JP,Oracle Corporation
-141.147.159.250,443,JP,Oracle Corporation
-139.162.102.152,7002,JP,Akamai Connected Cloud
-139.162.123.89,443,JP,Akamai Connected Cloud
-139.162.119.240,443,JP,Akamai Connected Cloud
-172.105.226.139,443,JP,Akamai Connected Cloud
-139.162.113.147,443,JP,Akamai Connected Cloud
-172.105.194.182,443,JP,Akamai Connected Cloud
-172.104.116.214,443,JP,Akamai Connected Cloud
-139.162.108.5,443,JP,Akamai Connected Cloud
-172.105.194.109,443,JP,Akamai Connected Cloud
-172.104.113.112,443,JP,Akamai Connected Cloud
-139.162.83.190,443,JP,Akamai Connected Cloud
-139.162.84.132,18836,JP,Akamai Connected Cloud
-172.105.199.91,443,JP,Akamai Connected Cloud
-172.105.197.128,443,JP,Akamai Connected Cloud
-139.162.79.151,587,JP,Akamai Connected Cloud
-45.76.52.128,443,JP,The Constant Company, LLC
-167.179.96.121,443,JP,The Constant Company, LLC
-202.182.118.106,443,JP,The Constant Company, LLC
-45.76.198.248,443,JP,The Constant Company, LLC
-45.63.123.176,443,JP,The Constant Company, LLC
-202.182.122.164,443,JP,The Constant Company, LLC
-45.76.111.190,443,JP,The Constant Company, LLC
-45.77.178.190,443,JP,The Constant Company, LLC
-108.160.141.198,443,JP,The Constant Company, LLC
-108.160.139.154,8443,JP,The Constant Company, LLC
-45.32.252.168,443,JP,The Constant Company, LLC
-108.61.126.17,443,JP,The Constant Company, LLC
-207.148.113.196,443,JP,The Constant Company, LLC
-149.28.18.161,443,JP,The Constant Company, LLC
-149.28.25.176,443,JP,The Constant Company, LLC
-207.148.105.247,443,JP,The Constant Company, LLC
-167.179.86.6,8443,JP,The Constant Company, LLC
-141.98.197.101,11665,JP,xTom Japan Corporation
-66.42.32.115,443,JP,The Constant Company, LLC
-167.179.116.28,443,JP,The Constant Company, LLC
-43.224.34.60,443,JP,The Constant Company, LLC
-104.238.151.229,443,JP,The Constant Company, LLC
-45.32.55.253,443,JP,The Constant Company, LLC
-45.77.9.114,443,JP,The Constant Company, LLC
-167.179.110.68,8443,JP,The Constant Company, LLC
-149.28.21.106,443,JP,The Constant Company, LLC
-45.76.100.173,443,JP,The Constant Company, LLC
-202.182.116.249,8443,JP,The Constant Company, LLC
-167.179.67.96,443,JP,The Constant Company, LLC
-45.77.176.87,443,JP,The Constant Company, LLC
-45.76.193.107,443,JP,The Constant Company, LLC
-152.70.82.101,18650,JP,Oracle Corporation
-64.176.36.17,443,JP,The Constant Company, LLC
-219.117.2.190,57517,JP,JCOM Co., Ltd.
-219.117.2.190,48401,JP,JCOM Co., Ltd.
-154.31.113.72,443,JP,DMIT Cloud Services
-206.237.120.143,443,JP,VMISS Inc.
-38.207.130.138,443,JP,AkileCloud Network
-154.31.114.136,443,JP,DMIT Cloud Services
-158.101.71.226,8443,JP,Oracle Corporation
-38.180.28.163,2053,JP,M247 Europe SRL
-178.157.56.26,443,JP,IT7 Networks Inc
-118.21.134.114,12553,JP,NTT Communications Corporation
-118.27.12.40,38443,JP,GMO Internet Group, Inc.
-38.180.28.163,8443,JP,M247 Europe SRL
-38.47.127.214,443,JP,VMISS Inc.
-132.145.127.203,8443,JP,Oracle Corporation
-38.180.29.40,2053,JP,M247 Europe SRL
-43.165.183.43,443,JP,Tencent Building, Kejizhongyi Avenue
-139.162.83.77,443,JP,Akamai Connected Cloud
-20.78.59.52,443,JP,Microsoft Corporation
-140.235.37.81,443,JP,ByteVirt LLC
-27.83.68.142,8443,JP,KDDI CORPORATION
-141.147.185.15,443,JP,Oracle Corporation
-82.163.16.69,8080,JP,AkileCloud Network
-82.163.16.229,26803,JP,AkileCloud Network
-18.178.124.68,443,JP,Amazon.com, Inc.
-15.168.175.167,2087,JP,Amazon.com, Inc.
-141.147.185.63,443,JP,Oracle Corporation
-43.206.192.211,443,JP,Amazon.com, Inc.
-52.198.130.69,443,JP,Amazon.com, Inc.
-18.183.158.211,443,JP,Amazon.com, Inc.
-18.183.222.39,443,JP,Amazon.com, Inc.
-130.33.72.202,443,JP,Microsoft Corporation
-52.194.236.221,8443,JP,Amazon.com, Inc.
-35.78.229.176,443,JP,Amazon.com, Inc.
-47.74.16.180,443,JP,Alibaba (US) Technology Co., Ltd.
-35.75.160.251,443,JP,Amazon.com, Inc.
-3.112.21.102,443,JP,Amazon.com, Inc.
-13.231.224.213,443,JP,Amazon.com, Inc.
-156.231.117.209,443,JP,AkileCloud Network
-64.110.101.31,8443,JP,Oracle Corporation
-138.2.16.61,443,JP,Oracle Corporation
-108.61.247.238,443,JP,The Constant Company, LLC
-158.101.80.84,443,JP,Oracle Corporation
-140.238.37.103,14782,JP,Oracle Corporation
-140.238.38.81,587,JP,Oracle Corporation
-158.101.140.206,443,JP,Oracle Corporation
-140.238.62.82,1443,JP,Oracle Corporation
-139.162.83.82,443,JP,Akamai Connected Cloud
-140.238.58.181,2053,JP,Oracle Corporation
-138.2.5.136,443,JP,Oracle Corporation
-193.246.161.65,54310,JP,AkileCloud Network
-132.145.116.185,443,JP,Oracle Corporation
-153.121.45.101,443,JP,SAKURA Internet Inc.
-132.145.127.203,2053,JP,Oracle Corporation
-147.79.20.239,443,JP,ByteVirt LLC
-152.70.97.53,443,JP,Oracle Corporation
-155.248.184.178,30011,JP,Oracle Corporation
-84.247.152.46,10045,JP,Contabo Asia Private Limited
-96.62.214.243,443,JP,Datacamp Limited
-150.230.59.15,8443,JP,Oracle Corporation
-185.18.222.208,2053,JP,Latitude.sh
-172.104.116.38,443,JP,Akamai Connected Cloud
-23.106.132.54,443,JP,IT7 Networks Inc
-23.106.140.129,443,JP,IT7 Networks Inc
-192.243.126.31,443,JP,IT7 Networks Inc
-172.105.199.184,443,JP,Akamai Connected Cloud
-140.83.37.134,46478,JP,Oracle Corporation
-47.79.85.78,443,JP,Alibaba (US) Technology Co., Ltd.
-140.83.57.183,22735,JP,Oracle Corporation
-158.101.154.245,47001,JP,Oracle Corporation
-158.101.146.3,44872,JP,Oracle Corporation
-158.101.152.6,2919,JP,Oracle Corporation
-140.83.60.81,18443,JP,Oracle Corporation
-158.101.146.3,54516,JP,Oracle Corporation
-140.83.57.114,25965,JP,Oracle Corporation
-140.83.56.110,56417,JP,Oracle Corporation
-121.85.55.59,19842,JP,OPTAGE Inc.
-140.83.59.158,15805,JP,Oracle Corporation
-140.83.57.20,13118,JP,Oracle Corporation
-140.83.57.86,54322,JP,Oracle Corporation
-109.123.231.212,2053,JP,Contabo Asia Private Limited
-109.61.109.40,443,JP,Host Universal Pty Ltd
-140.83.83.65,9872,JP,Oracle Corporation
-217.142.226.168,443,JP,Oracle Corporation
-158.101.76.55,21953,JP,Oracle Corporation
-158.101.89.113,50443,JP,Oracle Corporation
-38.207.137.217,443,JP,Nearoute Limited
-147.78.247.7,443,JP,xTom Japan Corporation
-43.207.165.94,443,JP,Amazon.com, Inc.
-103.106.0.123,443,JP,PQ HOSTING PLUS S.R.L.
-109.61.109.42,443,JP,Host Universal Pty Ltd
-43.165.191.216,443,JP,Tencent Building, Kejizhongyi Avenue
-43.133.26.158,443,JP,Tencent Building, Kejizhongyi Avenue
-139.162.83.207,443,JP,Akamai Connected Cloud
-74.176.185.219,443,JP,Microsoft Corporation
-156.231.113.162,443,JP,AkileCloud Network
-151.248.68.11,2083,JP,Datacamp Limited
-159.100.194.42,443,JP,Aryaka Networks, Inc.
-158.51.111.105,443,JP,DDPS Networks, LLC
-158.101.69.250,443,JP,Oracle Corporation
-45.146.163.31,443,JP,Apple Network, LLC
-140.245.88.197,443,JP,Oracle Corporation
-43.153.155.49,443,JP,Tencent Building, Kejizhongyi Avenue
-160.251.142.232,443,JP,GMO Internet Group, Inc.
-38.207.130.210,443,JP,AkileCloud Network
-217.142.243.226,443,JP,Oracle Corporation
-202.84.53.85,19999,JP,Azumino Network Community TV
-103.106.228.126,2053,JP,BrainStorm Network, Inc
-161.33.144.69,443,JP,Oracle Corporation
-45.11.1.118,44004,JP,Datacamp Limited
-103.238.129.215,42734,JP,WAP.AC LTD
-103.232.213.117,8080,JP,AkileCloud Network
-103.75.118.144,2053,JP,BrainStorm Network, Inc
-150.230.206.150,443,JP,Oracle Corporation
-47.74.8.30,2443,JP,Alibaba (US) Technology Co., Ltd.
-132.145.114.128,443,JP,Oracle Corporation
-103.125.216.22,8443,JP,Kamatera, Inc.
-91.194.160.45,8443,JP,PQ HOSTING PLUS S.R.L.
-47.79.90.37,49153,JP,Alibaba (US) Technology Co., Ltd.
-47.79.34.117,10036,JP,Alibaba (US) Technology Co., Ltd.
-141.147.147.180,443,JP,Oracle Corporation
-47.79.86.103,587,JP,Alibaba (US) Technology Co., Ltd.
-150.230.204.21,10243,JP,Oracle Corporation
-150.230.214.172,16957,JP,Oracle Corporation
-141.147.144.15,13357,JP,Oracle Corporation
-141.147.162.24,1235,JP,Oracle Corporation
-138.2.39.24,443,JP,Oracle Corporation
-141.147.161.249,51037,JP,Oracle Corporation
-141.147.152.229,23333,JP,Oracle Corporation
-152.69.195.36,443,JP,Oracle Corporation
-158.101.77.33,443,JP,Oracle Corporation
-150.230.5.34,45681,JP,Oracle Corporation
-64.110.104.30,443,JP,Oracle Corporation
-151.248.68.11,8443,JP,Datacamp Limited
-141.147.183.49,29876,JP,Oracle Corporation
-198.13.42.58,32954,JP,The Constant Company, LLC
-45.83.22.102,8443,JP,PQ HOSTING PLUS S.R.L.
-168.138.197.147,12345,JP,Oracle Corporation
-45.159.51.121,32199,JP,xTom Japan Corporation
-168.138.192.16,54584,JP,Oracle Corporation
-168.138.194.74,443,JP,Oracle Corporation
-168.138.193.174,11959,JP,Oracle Corporation
-168.138.198.7,27560,JP,Oracle Corporation
-210.138.37.53,443,JP,Internet Initiative Japan Inc.
-108.61.201.87,8443,JP,The Constant Company, LLC
-168.138.201.35,36637,JP,Oracle Corporation
-45.66.218.194,12965,JP,xTom Japan Corporation
-45.66.218.194,12959,JP,xTom Japan Corporation
-45.77.25.6,27854,JP,The Constant Company, LLC
-45.77.25.6,48828,JP,The Constant Company, LLC
-45.76.192.129,24434,JP,The Constant Company, LLC
-13.230.34.30,443,JP,Amazon.com, Inc.
-103.125.216.22,443,JP,Kamatera, Inc.
-193.123.161.116,443,JP,Oracle Corporation
-156.231.140.69,443,JP,ACCK LLC
-210.231.178.90,443,JP,NTT PC Communications, Inc.
-172.104.113.29,443,JP,Akamai Connected Cloud
-154.85.20.249,443,JP,ACCK LLC
-208.75.133.227,443,JP,Lamhosting LLC
-192.243.125.209,443,JP,IT7 Networks Inc
-150.230.196.248,443,JP,Oracle Corporation
-202.144.194.31,9998,JP,IPTELECOM ASIA
-168.138.212.80,443,JP,Oracle Corporation
-172.104.122.66,443,JP,Akamai Connected Cloud
-138.2.61.180,443,JP,Oracle Corporation
-176.97.70.109,443,JP,M247 Europe SRL
-64.176.52.132,443,JP,The Constant Company, LLC
-158.101.131.94,2083,JP,Oracle Corporation
-64.176.46.50,443,JP,The Constant Company, LLC
-45.32.63.94,443,JP,The Constant Company, LLC
-38.47.126.88,443,JP,VMISS Inc.
-158.101.157.75,57105,JP,Oracle Corporation
-217.142.226.116,443,JP,Oracle Corporation
-52.253.107.207,443,JP,Microsoft Corporation
-74.176.199.245,443,JP,Microsoft Corporation
-20.243.153.190,8443,JP,Microsoft Corporation
-138.2.12.103,14453,JP,Oracle Corporation
-154.213.178.210,20880,JP,Zillion Network Inc.
-38.47.127.14,17185,JP,VMISS Inc.
-18.177.83.181,443,JP,Amazon.com, Inc.
-13.115.72.85,443,JP,Amazon.com, Inc.
-57.181.247.95,443,JP,Amazon.com, Inc.
-13.115.232.94,443,JP,Amazon.com, Inc.
-192.243.127.224,443,JP,IT7 Networks Inc
-91.194.160.79,8443,JP,PQ HOSTING PLUS S.R.L.
-91.194.160.79,2053,JP,PQ HOSTING PLUS S.R.L.
-152.70.82.70,1450,JP,Oracle Corporation
-5.253.41.168,443,JP,PQ HOSTING PLUS S.R.L.
-185.184.223.47,443,JP,xTom Japan Corporation
-47.91.16.77,443,JP,Alibaba (US) Technology Co., Ltd.
-35.189.137.210,443,JP,Google LLC
-31.192.238.71,2053,SG,Chelyabinsk-Signal LLC
-45.88.42.34,2083,SG,Datacamp Limited
-68.183.235.240,443,SG,DigitalOcean, LLC
-45.88.42.34,8443,SG,Datacamp Limited
-146.235.19.79,28983,SG,Oracle Corporation
-139.162.53.195,8443,SG,Akamai Connected Cloud
-146.235.18.248,45137,SG,Oracle Corporation
-62.72.46.14,8443,SG,Contabo Asia Private Limited
-159.223.68.23,443,SG,DigitalOcean, LLC
-140.245.53.45,443,SG,Oracle Corporation
-206.206.76.32,8443,SG,Regxa Company for Information Technology Ltd
-157.245.60.56,443,SG,DigitalOcean, LLC
-172.104.40.56,587,SG,Akamai Connected Cloud
-64.49.14.41,8443,SG,Latitude.sh
-64.49.14.41,2053,SG,Latitude.sh
-167.88.172.224,443,SG,RouterHosting LLC
-68.183.227.236,443,SG,DigitalOcean, LLC
-159.223.53.70,2053,SG,DigitalOcean, LLC
-206.206.77.53,443,SG,Regxa Company for Information Technology Ltd
-46.3.96.64,443,SG,SAKURA LINK LIMITED
-152.42.234.228,2083,SG,DigitalOcean, LLC
-47.237.149.38,8443,SG,Alibaba (US) Technology Co., Ltd.
-43.128.95.110,40029,SG,Tencent Building, Kejizhongyi Avenue
-43.134.164.53,443,SG,Tencent Building, Kejizhongyi Avenue
-43.134.167.135,9950,SG,Tencent Building, Kejizhongyi Avenue
-51.79.158.58,2053,SG,OVH SAS
-43.156.116.194,443,SG,Tencent Building, Kejizhongyi Avenue
-43.156.181.203,443,SG,Tencent Building, Kejizhongyi Avenue
-47.236.119.190,51342,SG,Alibaba (US) Technology Co., Ltd.
-45.207.216.139,443,SG,MoeDove
-128.199.172.224,443,SG,DigitalOcean, LLC
-161.117.81.41,443,SG,Alibaba (US) Technology Co., Ltd.
-128.199.255.155,8443,SG,DigitalOcean, LLC
-146.190.107.103,443,SG,DigitalOcean, LLC
-139.180.159.133,443,SG,The Constant Company, LLC
-8.222.210.34,443,SG,Alibaba (US) Technology Co., Ltd.
-47.236.59.222,443,SG,Alibaba (US) Technology Co., Ltd.
-91.192.81.154,2053,SG,Melbikomas UAB
-38.244.151.165,2053,SG,M247 Europe SRL
-47.236.201.202,443,SG,Alibaba (US) Technology Co., Ltd.
-8.222.181.122,443,SG,Alibaba (US) Technology Co., Ltd.
-47.236.71.6,443,SG,Alibaba (US) Technology Co., Ltd.
-164.52.2.100,443,SG,CDS Global Cloud Co., Ltd
-83.142.30.5,2096,SG,Streamline Servers Pty Ltd
-172.237.81.60,2053,SG,Akamai Connected Cloud
-149.28.158.103,10030,SG,The Constant Company, LLC
-47.245.95.160,1443,SG,Alibaba (US) Technology Co., Ltd.
-64.235.43.223,443,SG,ServerPoint.com
-43.156.27.180,8443,SG,Tencent Building, Kejizhongyi Avenue
-213.35.100.31,47112,SG,Oracle Corporation
-213.35.108.135,12596,SG,Oracle Corporation
-139.59.104.25,2083,SG,DigitalOcean, LLC
-54.255.217.120,8192,SG,Amazon.com, Inc.
-47.130.35.116,8888,SG,Amazon.com, Inc.
-5.223.49.4,2053,SG,Hetzner Online GmbH
-138.2.93.88,443,SG,Oracle Corporation
-5.34.176.119,81,SG,GREEN FLOID LLC
-8.219.233.64,443,SG,Alibaba (US) Technology Co., Ltd.
-54.254.221.222,443,SG,Amazon.com, Inc.
-8.219.155.21,443,SG,Alibaba (US) Technology Co., Ltd.
-8.222.237.72,443,SG,Alibaba (US) Technology Co., Ltd.
-167.253.158.63,8443,SG,LEASEWEB SINGAPORE PTE. LTD.
-5.223.55.245,8443,SG,Hetzner Online GmbH
-47.245.85.72,443,SG,Alibaba (US) Technology Co., Ltd.
-47.236.21.74,443,SG,Alibaba (US) Technology Co., Ltd.
-64.235.43.144,443,SG,ServerPoint.com
-8.219.63.1,443,SG,Alibaba (US) Technology Co., Ltd.
-8.219.201.154,443,SG,Alibaba (US) Technology Co., Ltd.
-175.156.84.31,8443,SG,MobileOne Ltd. Mobile/Internet Service Provider Singapore
-8.219.126.137,491,SG,Alibaba (US) Technology Co., Ltd.
-8.219.0.67,443,SG,Alibaba (US) Technology Co., Ltd.
-8.219.58.164,57373,SG,Alibaba (US) Technology Co., Ltd.
-8.219.59.132,48130,SG,Alibaba (US) Technology Co., Ltd.
-8.219.59.132,48964,SG,Alibaba (US) Technology Co., Ltd.
-138.2.77.179,30018,SG,Oracle Corporation
-138.2.81.243,45319,SG,Oracle Corporation
-138.2.69.236,23334,SG,Oracle Corporation
-138.2.89.64,32962,SG,Oracle Corporation
-138.2.89.238,43254,SG,Oracle Corporation
-138.2.95.33,17465,SG,Oracle Corporation
-8.222.159.134,12483,SG,Alibaba (US) Technology Co., Ltd.
-8.222.159.134,12314,SG,Alibaba (US) Technology Co., Ltd.
-138.75.209.209,80,SG,MobileOne Ltd. Mobile/Internet Service Provider Singapore
-138.2.95.61,1111,SG,Oracle Corporation
-152.42.254.139,443,SG,DigitalOcean, LLC
-172.104.161.151,443,SG,Akamai Connected Cloud
-192.46.231.158,443,SG,Akamai Connected Cloud
-172.105.120.36,443,SG,Akamai Connected Cloud
-172.104.161.205,443,SG,Akamai Connected Cloud
-143.42.66.91,443,SG,Akamai Connected Cloud
-139.177.185.196,443,SG,Akamai Connected Cloud
-68.183.235.122,443,SG,DigitalOcean, LLC
-139.177.185.88,443,SG,Akamai Connected Cloud
-139.180.191.96,31001,SG,The Constant Company, LLC
-139.180.215.77,57878,SG,The Constant Company, LLC
-8.222.220.81,25435,SG,Alibaba (US) Technology Co., Ltd.
-8.222.213.91,587,SG,Alibaba (US) Technology Co., Ltd.
-45.32.101.149,443,SG,The Constant Company, LLC
-45.32.124.255,443,SG,The Constant Company, LLC
-104.248.159.99,443,SG,DigitalOcean, LLC
-66.42.56.237,443,SG,The Constant Company, LLC
-66.42.51.60,8443,SG,The Constant Company, LLC
-207.148.124.166,443,SG,The Constant Company, LLC
-45.76.179.81,443,SG,The Constant Company, LLC
-45.76.157.34,443,SG,The Constant Company, LLC
-139.180.146.128,443,SG,The Constant Company, LLC
-45.32.116.252,443,SG,The Constant Company, LLC
-139.162.53.195,2053,SG,Akamai Connected Cloud
-45.32.106.141,443,SG,The Constant Company, LLC
-149.28.139.245,443,SG,The Constant Company, LLC
-45.76.178.150,443,SG,The Constant Company, LLC
-66.42.61.1,443,SG,The Constant Company, LLC
-194.233.67.216,8443,SG,Contabo Asia Private Limited
-45.76.188.229,443,SG,The Constant Company, LLC
-45.32.121.244,443,SG,The Constant Company, LLC
-45.77.47.155,443,SG,The Constant Company, LLC
-45.76.159.76,443,SG,The Constant Company, LLC
-139.180.154.158,443,SG,The Constant Company, LLC
-45.32.121.217,443,SG,The Constant Company, LLC
-45.76.189.82,443,SG,The Constant Company, LLC
-47.130.110.89,443,SG,Amazon.com, Inc.
-38.180.249.123,443,SG,M247 Europe SRL
-178.128.86.3,443,SG,DigitalOcean, LLC
-168.138.165.174,443,SG,Oracle Corporation
-38.244.147.68,443,SG,M247 Europe SRL
-38.244.147.68,2053,SG,M247 Europe SRL
-104.43.91.69,443,SG,Microsoft Corporation
-163.47.10.109,8443,SG,DigitalOcean, LLC
-129.226.150.167,443,SG,Tencent Building, Kejizhongyi Avenue
-13.76.102.145,443,SG,Microsoft Corporation
-113.29.226.134,443,SG,NewMedia Express Pte Ltd
-40.65.162.116,443,SG,Microsoft Corporation
-157.230.240.184,443,SG,DigitalOcean, LLC
-18.136.213.164,443,SG,Amazon.com, Inc.
-92.112.21.24,443,SG,Coaxial Cable LLC
-54.251.16.83,443,SG,Amazon.com, Inc.
-13.250.31.132,443,SG,Amazon.com, Inc.
-52.74.101.26,443,SG,Amazon.com, Inc.
-13.250.97.146,443,SG,Amazon.com, Inc.
-13.212.213.77,8443,SG,Amazon.com, Inc.
-13.250.14.76,443,SG,Amazon.com, Inc.
-3.0.50.69,443,SG,Amazon.com, Inc.
-83.142.30.134,2096,SG,Streamline Servers Pty Ltd
-15.235.199.103,8443,SG,OVH SAS
-64.235.43.213,443,SG,ServerPoint.com
-15.235.162.19,443,SG,OVH SAS
-138.2.102.210,443,SG,Oracle Corporation
-20.205.177.152,443,SG,Microsoft Corporation
-185.114.78.230,443,SG,Aryaka Networks, Inc.
-47.236.154.27,443,SG,Alibaba (US) Technology Co., Ltd.
-109.224.228.174,443,SG,BUNNYWAY, informacijske storitve d.o.o.
-185.206.250.247,443,SG,IDC Cube
-92.112.22.94,443,SG,Coaxial Cable LLC
-43.160.202.92,443,SG,Tencent Building, Kejizhongyi Avenue
-51.79.158.58,8443,SG,OVH SAS
-134.209.96.76,443,SG,DigitalOcean, LLC
-68.183.235.165,443,SG,DigitalOcean, LLC
-104.234.151.10,8443,SG,MoeChuang Network Limited
-152.42.228.222,2053,SG,DigitalOcean, LLC
-128.199.181.227,2087,SG,DigitalOcean, LLC
-194.127.193.124,24467,SG,LEASEWEB SINGAPORE PTE. LTD.
-194.127.193.240,50791,SG,LEASEWEB SINGAPORE PTE. LTD.
-167.99.73.22,443,SG,DigitalOcean, LLC
-15.235.199.103,2053,SG,OVH SAS
-8.222.161.217,443,SG,Alibaba (US) Technology Co., Ltd.
-111.119.215.93,443,SG,HUAWEI CLOUDS
-47.130.115.157,443,SG,Amazon.com, Inc.
-202.73.51.244,443,SG,Viewqwest Pte Ltd
-140.245.48.42,443,SG,Oracle Corporation
-4.194.170.167,443,SG,Microsoft Corporation
-178.128.80.43,443,SG,DigitalOcean, LLC
-83.142.30.4,2096,SG,Streamline Servers Pty Ltd
-194.36.178.36,2053,SG,FIRST SERVER LIMITED
-194.36.179.17,2053,SG,FIRST SERVER LIMITED
-64.235.61.166,443,SG,ServerPoint.com
-194.36.179.5,2053,SG,FIRST SERVER LIMITED
-194.36.179.17,8443,SG,FIRST SERVER LIMITED
-172.93.186.43,443,SG,xTom Pty Ltd
-68.183.227.4,443,SG,DigitalOcean, LLC
-213.35.107.73,443,SG,Oracle Corporation
-209.97.173.243,443,SG,DigitalOcean, LLC
-158.178.243.152,61731,SG,Oracle Corporation
-158.178.236.14,61731,SG,Oracle Corporation
-158.178.246.142,61731,SG,Oracle Corporation
-139.99.124.165,443,SG,OVH SAS
-84.247.150.170,8443,SG,Contabo Asia Private Limited
-140.245.97.193,443,SG,Oracle Corporation
-188.166.249.31,443,SG,DigitalOcean, LLC
-103.214.23.52,443,SG,HostHatch, LLC
-128.199.128.28,123,SG,DigitalOcean, LLC
-129.150.54.20,13666,SG,Oracle Corporation
-129.150.49.58,18650,SG,Oracle Corporation
-129.150.58.86,57621,SG,Oracle Corporation
-129.150.36.188,53435,SG,Oracle Corporation
-129.150.35.29,587,SG,Oracle Corporation
-68.183.233.152,2053,SG,DigitalOcean, LLC
-68.183.227.180,443,SG,DigitalOcean, LLC
-47.236.108.36,443,SG,Alibaba (US) Technology Co., Ltd.
-150.109.11.223,443,SG,Tencent Building, Kejizhongyi Avenue
-160.22.79.155,443,SG,Onidel Pty Ltd
-47.237.82.13,443,SG,Alibaba (US) Technology Co., Ltd.
-160.22.79.179,443,SG,Onidel Pty Ltd
-161.117.81.228,4443,SG,Alibaba (US) Technology Co., Ltd.
-161.117.249.114,2025,SG,Alibaba (US) Technology Co., Ltd.
-194.156.163.45,443,SG,Misaka Network, Inc.
-128.199.216.53,443,SG,DigitalOcean, LLC
-47.236.109.216,443,SG,Alibaba (US) Technology Co., Ltd.
-113.29.232.213,443,SG,NewMedia Express Pte Ltd
-178.128.30.71,443,SG,DigitalOcean, LLC
-47.236.140.205,443,SG,Alibaba (US) Technology Co., Ltd.
-185.81.28.95,30503,SG,AkileCloud Network
-143.198.196.196,8443,SG,DigitalOcean, LLC
-103.195.191.55,443,SG,Dromatics Systems Pte Ltd
-20.247.137.183,443,SG,Microsoft Corporation
-168.138.184.172,443,SG,Oracle Corporation
-15.235.192.85,443,SG,OVH SAS
-47.236.188.199,443,SG,Alibaba (US) Technology Co., Ltd.
-47.236.94.90,443,SG,Alibaba (US) Technology Co., Ltd.
-8.219.165.135,443,SG,Alibaba (US) Technology Co., Ltd.
-128.199.125.131,443,SG,DigitalOcean, LLC
-158.178.229.178,443,SG,Oracle Corporation
-5.223.75.87,443,SG,Hetzner Online GmbH
-47.74.254.191,8900,SG,Alibaba (US) Technology Co., Ltd.
-51.79.141.135,443,SG,OVH SAS
-152.42.241.71,8443,SG,DigitalOcean, LLC
-128.199.134.152,443,SG,DigitalOcean, LLC
-152.42.241.71,2053,SG,DigitalOcean, LLC
-68.183.227.216,443,SG,DigitalOcean, LLC
-31.192.238.71,8443,SG,Chelyabinsk-Signal LLC
-157.20.104.30,443,SG,Host Universal Pty Ltd
-139.59.104.29,443,SG,DigitalOcean, LLC
-168.138.189.91,443,SG,Oracle Corporation
-138.2.107.107,443,SG,Oracle Corporation
-164.52.2.98,443,SG,CDS Global Cloud Co., Ltd
-43.252.21.100,443,SG,HaloCloud Network Limited
-138.2.64.229,443,SG,Oracle Corporation
-164.52.2.99,443,SG,CDS Global Cloud Co., Ltd
-143.198.196.196,2053,SG,DigitalOcean, LLC
-206.189.85.0,443,SG,DigitalOcean, LLC
-160.22.79.166,443,SG,Onidel Pty Ltd
-167.253.158.63,2053,SG,LEASEWEB SINGAPORE PTE. LTD.
-143.198.92.220,443,SG,DigitalOcean, LLC
-163.47.10.109,2053,SG,DigitalOcean, LLC
-91.192.81.154,8443,SG,Melbikomas UAB
-34.143.159.175,443,SG,Google LLC
-45.32.100.46,13802,SG,The Constant Company, LLC
-168.138.181.188,61731,SG,Oracle Corporation
-168.138.171.70,23280,SG,Oracle Corporation
-38.181.70.7,16240,SG,Eons Data Communications Limited
-168.138.170.211,53702,SG,Oracle Corporation
-47.236.29.162,443,SG,Alibaba (US) Technology Co., Ltd.
-159.223.53.70,8443,SG,DigitalOcean, LLC
-68.183.227.45,443,SG,DigitalOcean, LLC
-110.34.164.39,28758,SG,VPLS ASIA
-47.74.157.194,443,SG,Alibaba (US) Technology Co., Ltd.
-52.76.110.129,20001,SG,Amazon.com, Inc.
-13.250.131.37,443,SG,Amazon.com, Inc.
-47.245.122.46,443,SG,Alibaba (US) Technology Co., Ltd.
-47.236.86.141,443,SG,Alibaba (US) Technology Co., Ltd.
-45.76.183.217,49292,SG,The Constant Company, LLC
-152.42.220.9,8443,SG,DigitalOcean, LLC
-45.88.42.34,2053,SG,Datacamp Limited
-172.237.81.60,8443,SG,Akamai Connected Cloud
-5.223.47.32,443,SG,Hetzner Online GmbH
-185.206.250.2,443,SG,IDC Cube
-103.229.96.157,443,SG,Epsilon Telecommunications Ltd
-165.154.203.69,443,SG,Scloud Pte Ltd
-194.36.178.36,8443,SG,FIRST SERVER LIMITED
-43.160.245.199,443,SG,Tencent Building, Kejizhongyi Avenue
-152.42.220.9,443,SG,DigitalOcean, LLC
-43.252.21.110,443,SG,HaloCloud Network Limited
-158.178.244.26,443,SG,Oracle Corporation
-207.148.77.27,443,SG,The Constant Company, LLC
-139.180.188.177,443,SG,The Constant Company, LLC
-194.87.10.127,8443,SG,Baxet Group Inc.
-57.155.28.171,443,SG,Microsoft Corporation
-4.145.124.60,443,SG,Microsoft Corporation
-47.236.79.108,443,SG,Alibaba (US) Technology Co., Ltd.
-146.190.104.232,443,SG,DigitalOcean, LLC
-8.219.181.196,443,SG,Alibaba (US) Technology Co., Ltd.
-8.219.114.161,443,SG,Alibaba (US) Technology Co., Ltd.
-8.219.170.224,443,SG,Alibaba (US) Technology Co., Ltd.
-174.138.30.172,8443,SG,DigitalOcean, LLC
-8.222.218.155,443,SG,Alibaba (US) Technology Co., Ltd.
-157.245.204.209,443,SG,DigitalOcean, LLC
-159.89.208.94,443,SG,DigitalOcean, LLC
-168.138.185.234,443,SG,Oracle Corporation
-159.223.62.35,443,SG,DigitalOcean, LLC
-167.71.198.82,8443,SG,DigitalOcean, LLC
-152.42.178.179,443,SG,DigitalOcean, LLC
-3.0.39.179,443,SG,Amazon.com, Inc.
-128.199.237.143,443,SG,DigitalOcean, LLC
-178.128.124.97,443,SG,DigitalOcean, LLC
-128.199.134.160,443,SG,DigitalOcean, LLC
-128.199.93.107,8443,SG,DigitalOcean, LLC
-43.156.107.236,12131,SG,Tencent Building, Kejizhongyi Avenue
-185.115.207.218,443,SG,ByteVirt LLC
-157.230.195.74,443,SG,DigitalOcean, LLC
-152.42.236.151,8443,SG,DigitalOcean, LLC
-152.42.236.151,2053,SG,DigitalOcean, LLC
-104.248.145.216,443,SG,DigitalOcean, LLC
-8.219.198.98,443,SG,Alibaba (US) Technology Co., Ltd.
-47.236.154.20,443,SG,Alibaba (US) Technology Co., Ltd.
-8.219.107.90,443,SG,Alibaba (US) Technology Co., Ltd.
-47.236.163.74,443,SG,Alibaba (US) Technology Co., Ltd.
-139.162.4.242,8443,SG,Akamai Connected Cloud
 193.46.56.207,2096,TR,PQ HOSTING PLUS S.R.L.
 213.142.150.2,8443,TR,TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI.
 45.89.52.228,443,TR,PQ HOSTING PLUS S.R.L.
@@ -33185,25 +33221,6 @@
 141.98.233.80,8443,BE,GLOBAL CONNECTIVITY SOLUTIONS LLP
 141.98.233.44,2053,BE,GLOBAL CONNECTIVITY SOLUTIONS LLP
 141.98.233.170,8443,BE,GLOBAL CONNECTIVITY SOLUTIONS LLP
-38.60.193.247,13300,MY,Kaopu Cloud HK Limited
-45.89.107.7,2053,MY,PQ HOSTING PLUS S.R.L.
-163.61.102.13,443,MY,Terabix
-47.250.59.132,443,MY,Alibaba (US) Technology Co., Ltd.
-47.254.235.252,443,MY,Alibaba (US) Technology Co., Ltd.
-47.254.206.121,443,MY,Alibaba (US) Technology Co., Ltd.
-47.250.139.249,443,MY,Alibaba (US) Technology Co., Ltd.
-47.250.139.59,443,MY,Alibaba (US) Technology Co., Ltd.
-47.250.132.147,443,MY,Alibaba (US) Technology Co., Ltd.
-47.254.255.125,443,MY,Alibaba (US) Technology Co., Ltd.
-47.250.37.87,443,MY,Alibaba (US) Technology Co., Ltd.
-20.17.107.137,443,MY,Microsoft Corporation
-20.17.104.31,443,MY,Microsoft Corporation
-58.27.117.24,443,MY,TM TECHNOLOGY SERVICES SDN. BHD.
-23.27.53.140,443,MY,Evoxt Enterprise
-60.52.2.32,443,MY,TM TECHNOLOGY SERVICES SDN. BHD.
-45.89.107.118,443,MY,PQ HOSTING PLUS S.R.L.
-155.254.60.225,443,MY,Evoxt Enterprise
-202.184.113.127,443,MY,TTNET-MY
 89.185.82.124,2053,MK,GLOBAL CONNECTIVITY SOLUTIONS LLP
 45.83.141.54,443,MK,PQ HOSTING PLUS S.R.L.
 89.185.82.38,8443,MK,GLOBAL CONNECTIVITY SOLUTIONS LLP
@@ -33262,23 +33279,6 @@
 194.38.20.78,443,UA,Rices Privately owned enterprise
 45.14.246.187,443,UA,PQ HOSTING PLUS S.R.L.
 195.28.182.182,2053,UA,GREEN FLOID LLC
-156.244.1.250,8443,ID,Kaopu Cloud HK Limited
-149.129.250.8,443,ID,Alibaba (US) Technology Co., Ltd.
-172.232.234.198,443,ID,Akamai Connected Cloud
-103.146.63.149,443,ID,PT Semut Data Indonesia
-149.129.220.69,443,ID,Alibaba (US) Technology Co., Ltd.
-43.218.77.16,1443,ID,Amazon.com, Inc.
-154.205.159.72,2053,ID,Kaopu Cloud HK Limited
-34.101.86.59,443,ID,Google LLC
-172.232.238.56,443,ID,Akamai Connected Cloud
-206.84.101.83,8443,ID,PT MITRA VISIONER PRATAMA
-43.218.77.16,443,ID,Amazon.com, Inc.
-103.197.189.133,443,ID,PT Biznet Gio Nusantara
-103.6.207.108,8080,ID,PT Pusat Media Indonesia
-36.95.152.58,12137,ID,PT Telekomunikasi Indonesia
-172.232.234.117,443,ID,Akamai Connected Cloud
-203.194.112.119,8443,ID,CV. Rumahweb Indonesia
-203.194.112.119,2053,ID,CV. Rumahweb Indonesia
 5.180.55.184,2053,SK,PQ HOSTING PLUS S.R.L.
 5.252.23.190,81,SK,PQ HOSTING PLUS S.R.L.
 5.252.23.245,443,SK,PQ HOSTING PLUS S.R.L.
